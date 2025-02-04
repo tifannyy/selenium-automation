@@ -1,2 +1,2 @@
 # selenium-automation
-website test automation using selenium.
+website test automation using selenium python.
