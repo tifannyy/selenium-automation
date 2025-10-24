@@ -1,2 +1,3 @@
 # selenium-automation
-website test automation using selenium python.
+
+web automation testing project for orangeHRM using selenium python.
